@@ -145,7 +145,7 @@
         (name "RXD0" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
-      (pin power_out line (at -13.97 -6.35 0) (length 2.54)
+      (pin power_in line (at -13.97 -6.35 0) (length 2.54)
         (name "VDDIO" (effects (font (size 1.27 1.27))))
         (number "9" (effects (font (size 1.27 1.27))))
       )
